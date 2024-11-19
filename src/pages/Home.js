@@ -6,6 +6,7 @@ function Home() {
       <h1>SPS REACT TEST</h1>
 
       <a href="/users">Usuários</a>
+      <a href="/signin">Login</a>
     </div>
   );
 }
